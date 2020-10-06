@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "dev",
+      "message": {
+        "embeds": [
+          {
+            "title": "Modulo",
+            "description": "Given two integers *A* and *B*, *A* modulo *B* is the remainder when dividing *A* by *B*. For example, the numbers 7, 14, 27, and 38 become 1, 2, 0, and 2, modulo 3. Write a program that accepts 10 numbers as input and outputs the number of distinct numbers in the input, if the numbers are considered modulo 42.",
+            "color": 65460,
+            "fields": [
+              {
+                "name": "Input Specifications",
+                "value": "The input will contain 10 non-negative integers, each smaller than 1000, one per line."
+              },
+              {
+                "name": "Output Specifications",
+                "value": "Output the number of distinct values when considered modulo 42 on a single line. "
+              },
+              {
+                "name": "Sample Input",
+                "value": "1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n",
+                "inline": true
+              },
+              {
+                "name": "Sample Output",
+                "value": "10",
+                "inline": true
+              },
+              {
+                "name": "__How to Submit__",
+                "value": "There are two steps to submit your code for this challenge (Name: **Modulo**):\n1. Go to <#743121731480191088> and create a ticket by reacting to the :envelope_with_arrow:! Once you have reacted to the ticket bot, your ticket will be created on top of all the channels.\n2. Type your name, your PayPal email, and the code (notepad file if possible).\n\n_This challenges ends in 1 hour, starting from when this post occurs. _"
+              }
+            ],
+            "author": {
+              "name": "Massey Game Jam Developer Challenges",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "footer": {
+              "text": "Tarj Mecwan",
+              "icon_url": "https://cdn.discordapp.com/attachments/735513163679662100/745115834216612000/avatarfinal.thumb.gif.6f7e3f9ad41759828a04b3eb8bfb589c.gif"
+            },
+            "timestamp": "2020-10-06T01:25:00.000Z"
+          }
+        ]
+      }
+    }
+  ]
+}
